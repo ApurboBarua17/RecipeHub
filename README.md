@@ -1,9 +1,8 @@
 # RecipeHub
 
-This is our final project for CS337. RecipeHub is a simplistic recipe-sharing web application where users can register, log in, submit their recipes, and browse recipes submitted by other users. The application is built in Node.js and Express and employs basic session handling and JSON file storage for its data. Logged-in users may add a recipe via a small form provided. Recipes are given a title, ingredients, steps, and optionally an image. Recipes are visible to all users, irrespective of whether they are logged in or just guests
+ RecipeHub is a simplistic recipe-sharing web application where users can register, log in, submit their recipes, and browse recipes submitted by other users. The application is built in Node.js and Express and employs basic session handling and JSON file storage for its data. Logged-in users may add a recipe via a small form provided. Recipes are given a title, ingredients, steps, and optionally an image. Recipes are visible to all users, irrespective of whether they are logged in or just guests
 
-# Authors  
-Ashutosh Dayal  
+# Authors    
 Apurbo Barua
 
 # Dependencies  
